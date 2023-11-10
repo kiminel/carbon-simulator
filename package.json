@@ -1,0 +1,7 @@
+{
+  "name": "carbon-simulator",
+  "workspaces": [
+    "client",
+    "server"
+  ]
+}
