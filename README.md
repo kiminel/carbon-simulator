@@ -3,14 +3,13 @@
 Two terminals needed to startup locally
 
 1.        cd server
-          npm run i
-          npm run build
+          npm i
           npm run dev
 
 Keep server running while starting client
 
 2.        cd client
-          npm run i
+          npm i
           npm run build
           npm run dev
 
@@ -48,7 +47,7 @@ _Back End:_
   - Total USD field which calculates how much the Trees cost
   - The amount of entries they have
   - The total amount of trees purchased
-  - The total amount of costs in USD based on the Total of the Trees AND the yearly cost of $12
+  - The total amount of costs in USD based on the Total of the Trees ($120 per tree) AND the yearly cost of $12
 
 - User presses the Calculate Offset button which displays a graph of the average Co2 consumption by Date:
 
